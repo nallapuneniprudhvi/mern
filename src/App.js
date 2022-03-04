@@ -16,7 +16,7 @@ function App() {
     //   </header>
     // </div>
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       {/* <Home />
       <About />
       <Login />
